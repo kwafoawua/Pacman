@@ -1,0 +1,17 @@
+canvas {
+    background-color: black;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-style: dashed;
+    border: 2px solid gray;
+}
+@font-face {
+    font-family:'Namco';
+    src: url('../extras/namco__.ttf');
+}
+body {
+    background-color: black;
+}
